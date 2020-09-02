@@ -5,6 +5,8 @@ def count_strings(array)
     element.String?
   end
   
+  return element
+  
 end
 
 def count_empty_strings(array)
